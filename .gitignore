@@ -4,3 +4,5 @@ static/text/*
 static/stats
 static/corpus_configs/custom/*.toml
 static/language_data/reddit.json
+static/layouts/en-po_70-30/*nsw1.kb
+static/layouts/en-po_70-30/*nsw2.kb
